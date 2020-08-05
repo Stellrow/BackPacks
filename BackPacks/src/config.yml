@@ -1,0 +1,9 @@
+BackPackItemConfig:
+  type: LEATHER
+  name: '&cBackPack'
+  lore:
+    - '&7A nice backpack wich can hold'
+    - '&7up to 9 items at once!'
+  custommodeldata: 1
+General:
+  allow-crafting: true
